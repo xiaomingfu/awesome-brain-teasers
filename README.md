@@ -22,7 +22,9 @@ Collection of Awesome Brain Teasers
 #### Q5:IF you had 2 hourglasses, one timed exactly 7 minutes and the other 3 minutes, how can you use them to count exactly 6 minutes continuously?
 
 - A: ??
-#### Q6：Sokoban game (by Kelly)
+
+#### Q6:Sokoban game (by Kelly)
+
 Play the Sokoban game (推箱子游戏) with following scenario. You need to move all the 7 boxes out from the “Exit”. The grid of “x” is your start point. Rules:
 
 1. You can move a box vertically or horizontally;
@@ -35,7 +37,7 @@ Question:  which box is the first one to be moved out? What’s the sequence of 
 
 -a: No1 is the first to be moved out. the sequence of boxes to be moved out is: 1, 4, 2/3/5, 6, 7 ???
 
-#### Q7:2.	Center of gravity(by Tiannan) 
+#### Q7: Center of gravity(by Tiannan) 
 There is an empty container. It has evenly distributed weight, and the center of gravity is at its geometric center.
 
 Question 1:  When I fill water continuously into the container, how does the entity’s center of gravity change?
