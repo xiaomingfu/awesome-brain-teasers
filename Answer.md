@@ -16,8 +16,8 @@
 
 6. Q6 Answer:
 
-7. Q7 Answer:first go down then go up to the middle of the height of the container. at the 1/4 of height is the lowest place of gravity drop.
+7. Q7 Answer:first go down then go up to original place. when the water reackes the container's center of gravity.(if the container is cube, the lowest place is 1/4 of height.)
 
-8. Q8 Answer: count the time of command from the same id, if the number is more than half of total command, it should be from fake id.???
+8. Q8 Answer: 
 
 9. Q9 Answer: 
